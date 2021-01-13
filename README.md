@@ -1,7 +1,7 @@
 #SAMDNet
 
-by Shengwu Lee(biolee3@sina.com) at SUST
-this repository is still under development
+- by Shengwu Lee(biolee3@sina.com) at SUST
+- this repository is still under development
 
 ## Introduction
 PyTorch implementation of SAMDNet, which runs at ~2fps with a single CPU core and a single GPU (TITAN XP 12GB).
