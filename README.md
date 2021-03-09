@@ -4,13 +4,13 @@
 - this repository is still under development
 
 ## Introduction
-PyTorch implementation of SAMDNet, which runs at ~2fps with a single CPU core and a single GPU (TITAN XP 12GB).
+PyTorch implementation of SAMDNet, which runs at ~0.76fps with a single CPU core and a single GPU (TITAN XP 12GB).
 
 ## Prerequisites
 - python 3.6+
 - opencv 3.0+
 - [PyTorch 1.0+](http://pytorch.org/) and its dependencies 
-- for GPU support: a GPU with ~3G memory
+- for GPU support: a GPU with ~9G memory
 
 ## Usage
 
