@@ -14,7 +14,8 @@ PyTorch implementation of SAMDNet, which runs at ~0.76fps with a single CPU core
 
 ## Usage
 
-### Tracking
+### Online Tracking
+ - If you only run the tracker, you can use the pretrained model in models/SAMDNet.pth.
 ```bash
  python tracking/run_tracker.py -s DragonBaby [-d (display fig)] [-f (save fig)]
 ```
