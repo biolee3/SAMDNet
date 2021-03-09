@@ -11,7 +11,7 @@ PyTorch implementation of SAMDNet, which runs at ~0.76fps with a single CPU core
 - opencv 3.0+
 - [PyTorch 1.0+](http://pytorch.org/) and its dependencies 
 - for GPU support: a GPU with ~9G memory
-
+- This code is tested on windows 10(1909) 
 ## Usage
 
 ### Online Tracking
